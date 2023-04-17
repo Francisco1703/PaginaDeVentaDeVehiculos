@@ -6,6 +6,7 @@
 .textContainer {
   padding: 20px;
   font-weight: bolder;
+  text-shadow: 2px 5px 2px grey;
 }
 
 .hr {
