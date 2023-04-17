@@ -1,0 +1,22 @@
+.navTitle {
+  font-size: 170%;
+  font-weight: bolder;
+  color: white;
+  text-decoration: none;
+}
+
+.links {
+  font-size: 105%;
+  color: white;
+  transition: all 0.5s;
+  margin-right: 10px;
+  padding: 5px;
+  text-decoration: none;
+}
+
+.links:hover {
+  color: white;
+  border-radius: 10px;
+  border: none;
+  text-shadow: 1px 5px 3px white;
+}

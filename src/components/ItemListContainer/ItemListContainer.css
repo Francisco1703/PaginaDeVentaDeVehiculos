@@ -1,0 +1,17 @@
+.bgDiv {
+  background-color: rgb(230, 225, 225);
+  margin-top: -20px;
+}
+
+.textContainer {
+  padding: 20px;
+  font-weight: bolder;
+}
+
+.hr {
+  color: black;
+  border: 5px solid black;
+  width: 500px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
